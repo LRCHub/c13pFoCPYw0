@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "片想い",
+  "base_artist": "SUPER BEAVER",
+  "createdAt": "2025-12-14T06:22:41.205389Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "片想い",
+      "artist": "Miwa",
+      "has_synced": true,
+      "path": "select/01_片想い_Miwa.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "片想い",
+      "artist": "KIRA",
+      "has_synced": false,
+      "path": "select/02_片想い_KIRA.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "片想い(2016.3.8@日本武道館Live ver.)",
+      "artist": "Miwa",
+      "has_synced": true,
+      "path": "select/03_片想い(2016.3.8@日本武道館Live_ver.)_Miwa.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "片想い (2016.3.8@日本武道館Live Ver.)",
+      "artist": "miwa",
+      "has_synced": true,
+      "path": "select/04_片想い_(2016.3.8@日本武道館Live_Ver.)_miwa.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "片想い",
+      "artist": "Chara",
+      "has_synced": true,
+      "path": "select/05_片想い_Chara.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "片想い",
+      "artist": "Crystal Kay",
+      "has_synced": true,
+      "path": "select/06_片想い_Crystal_Kay.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "片想い",
+      "artist": "Chara",
+      "has_synced": true,
+      "path": "select/07_片想い_Chara.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "片想い (instrumental)",
+      "artist": "Chara",
+      "has_synced": true,
+      "path": "select/08_片想い_(instrumental)_Chara.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "片想い",
+      "artist": "浜田省吾",
+      "has_synced": true,
+      "path": "select/09_片想い_浜田省吾.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "片想い",
+      "artist": "GENERATIONS from EXILE TRIBE",
+      "has_synced": false,
+      "path": "select/10_片想い_GENERATIONS_from_EXILE_TRIBE.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "キミ想い、片想い",
+      "artist": "Takanon",
+      "has_synced": false,
+      "path": "select/11_キミ想い、片想い_Takanon.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "片想い",
+      "artist": "GENERATIONS",
+      "has_synced": true,
+      "path": "select/12_片想い_GENERATIONS.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "片想い",
+      "artist": "Shogo Hamada",
+      "has_synced": true,
+      "path": "select/13_片想い_Shogo_Hamada.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "片想い",
+      "artist": "小泉今日子",
+      "has_synced": true,
+      "path": "select/14_片想い_小泉今日子.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "片想い",
+      "artist": "Chara",
+      "has_synced": true,
+      "path": "select/15_片想い_Chara.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "片想い",
+      "artist": "The Winking Owl",
+      "has_synced": true,
+      "path": "select/16_片想い_The_Winking_Owl.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "片想い",
+      "artist": "SUPER BEAVER",
+      "has_synced": false,
+      "path": "select/pl_01_片想い_SUPER_BEAVER.txt"
+    }
+  ]
+}
